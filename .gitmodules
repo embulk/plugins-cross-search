@@ -1,0 +1,3 @@
+[submodule "embulk-input-jdbc"]
+	path = embulk-input-jdbc
+	url = git@github.com:embulk/embulk-input-jdbc.git
