@@ -1,3 +1,663 @@
 [submodule "embulk-input-jdbc"]
 	path = embulk-input-jdbc
 	url = git@github.com:embulk/embulk-input-jdbc.git
+[submodule "embulk-input-s3"]
+	path = embulk-input-s3
+	url = git@github.com:embulk/embulk-input-s3.git
+[submodule "embulk-input-gcs"]
+	path = embulk-input-gcs
+	url = git@github.com:embulk/embulk-input-gcs.git
+[submodule "embulk-input-marketo"]
+	path = embulk-input-marketo
+	url = git@github.com:treasure-data/embulk-input-marketo.git
+[submodule "embulk-input-mongodb"]
+	path = embulk-input-mongodb
+	url = git@github.com:hakobera/embulk-input-mongodb.git
+[submodule "embulk-input-mixpanel"]
+	path = embulk-input-mixpanel
+	url = git@github.com:treasure-data/embulk-input-mixpanel.git
+[submodule "embulk-input-hdfs"]
+	path = embulk-input-hdfs
+	url = git@github.com:civitaspo/embulk-input-hdfs.git
+[submodule "embulk-input-google_analytics"]
+	path = embulk-input-google_analytics
+	url = git@github.com:treasure-data/embulk-input-google_analytics.git
+[submodule "embulk-input-http"]
+	path = embulk-input-http
+	url = git@github.com:takumakanari/embulk-input-http.git
+[submodule "embulk-input-jira"]
+	path = embulk-input-jira
+	url = git@github.com:treasure-data/embulk-input-jira.git
+[submodule "embulk-input-remote"]
+	path = embulk-input-remote
+	url = git@github.com:kamatama41/embulk-input-remote.git
+[submodule "embulk-input-zendesk"]
+	path = embulk-input-zendesk
+	url = git@github.com:treasure-data/embulk-input-zendesk.git
+[submodule "embulk-input-td"]
+	path = embulk-input-td
+	url = git@github.com:muga/embulk-input-td.git
+[submodule "embulk-input-sftp"]
+	path = embulk-input-sftp
+	url = git@github.com:embulk/embulk-input-sftp.git
+[submodule "embulk-input-google_spreadsheets"]
+	path = embulk-input-google_spreadsheets
+	url = git@github.com:medjed/embulk-input-google_spreadsheets.git
+[submodule "embulk-input-presto"]
+	path = embulk-input-presto
+	url = git@github.com:toyama0919/embulk-input-presto.git
+[submodule "embulk-input-azure_blob_storage"]
+	path = embulk-input-azure_blob_storage
+	url = git@github.com:embulk/embulk-input-azure_blob_storage.git
+[submodule "embulk-input-command"]
+	path = embulk-input-command
+	url = git@github.com:embulk/embulk-input-command.git
+[submodule "embulk-input-elasticsearch"]
+	path = embulk-input-elasticsearch
+	url = git@github.com:toyama0919/embulk-input-elasticsearch.git
+[submodule "embulk-input-dynamodb"]
+	path = embulk-input-dynamodb
+	url = git@github.com:lulichn/embulk-input-dynamodb.git
+[submodule "embulk-input-ftp"]
+	path = embulk-input-ftp
+	url = git@github.com:embulk/embulk-input-ftp.git
+[submodule "embulk-input-pcapng-files"]
+	path = embulk-input-pcapng-files
+	url = git@github.com:enukane/embulk-input-pcapng-files.git
+[submodule "embulk-input-bigquery"]
+	path = embulk-input-bigquery
+	url = git@github.com:medjed/embulk-input-bigquery.git
+[submodule "embulk-input-filesplit"]
+	path = embulk-input-filesplit
+	url = git@github.com:hito4t/embulk-input-filesplit.git
+[submodule "embulk-input-lkqd"]
+	path = embulk-input-lkqd
+	url = git@github.com:liuming/embulk-input-lkqd.git
+[submodule "embulk-input-randomj"]
+	path = embulk-input-randomj
+	url = git@github.com:yuokada/embulk-input-randomj.git
+[submodule "embulk-input-vertica"]
+	path = embulk-input-vertica
+	url = git@github.com:sonots/embulk-input-vertica.git
+[submodule "embulk-input-yelp"]
+	path = embulk-input-yelp
+	url = git@github.com:dmikurube/embulk-input-yelp.git
+[submodule "embulk-input-slack-history"]
+	path = embulk-input-slack-history
+	url = git@github.com:yaggytter/embulk-input-slack-history.git
+[submodule "embulk-input-aster"]
+	path = embulk-input-aster
+	url = git@github.com:ebyhr/embulk-input-aster.git
+[submodule "embulk-input-bigquery_extract_files"]
+	path = embulk-input-bigquery_extract_files
+	url = git@github.com:jo8937/embulk-input-bigquery_extract_files.git
+[submodule "embulk-input-healthplanet"]
+	path = embulk-input-healthplanet
+	url = git@github.com:muziyoshiz/embulk-input-healthplanet.git
+[submodule "embulk-input-random"]
+	path = embulk-input-random
+	url = git@github.com:kumagi/embulk-input-random.git
+[submodule "embulk-input-swift"]
+	path = embulk-input-swift
+	url = git@github.com:yuuzi41/embulk-input-swift.git
+[submodule "embulk-input-rediskeys"]
+	path = embulk-input-rediskeys
+	url = git@github.com:dokuma/embulk-input-rediskeys.git
+[submodule "embulk-input-datastore"]
+	path = embulk-input-datastore
+	url = git@github.com:syucream/embulk-input-datastore.git
+[submodule "embulk-input-twitterarchive"]
+	path = embulk-input-twitterarchive
+	url = git@github.com:nazo/embulk-input-twitterarchive.git
+[submodule "embulk-input-redash"]
+	path = embulk-input-redash
+	url = git@github.com:ariarijp/embulk-input-redash.git
+[submodule "embulk-input-sql"]
+	path = embulk-input-sql
+	url = git@github.com:kakusuke/embulk-input-sql.git
+[submodule "embulk-input-apache-dummy-log"]
+	path = embulk-input-apache-dummy-log
+	url = git@github.com:hiroyuki-sato/embulk-input-apache-dummy-log.git
+[submodule "embulk-input-redis"]
+	path = embulk-input-redis
+	url = git@github.com:komamitsu/embulk-input-redis.git
+[submodule "embulk-input-jstat"]
+	path = embulk-input-jstat
+	url = git@github.com:ykubota/embulk-input-jstat.git
+[submodule "embulk-input-teradata"]
+	path = embulk-input-teradata
+	url = git@github.com:ebyhr/embulk-input-teradata.git
+[submodule "embulk-input-athena"]
+	path = embulk-input-athena
+	url = git@github.com:shinji19/embulk-input-athena.git
+[submodule "embulk-input-parquet_hadoop"]
+	path = embulk-input-parquet_hadoop
+	url = git@github.com:CyberAgent/embulk-input-parquet_hadoop.git
+[submodule "embulk-input-inline"]
+	path = embulk-input-inline
+	url = git@github.com:toyama0919/embulk-input-inline.git
+[submodule "embulk-input-slack_message"]
+	path = embulk-input-slack_message
+	url = git@github.com:yuemori/embulk-input-slack_message.git
+[submodule "embulk-input-sequence"]
+	path = embulk-input-sequence
+	url = git@github.com:tomykaira/embulk-input-sequence.git
+[submodule "embulk-input-yahoo_ads"]
+	path = embulk-input-yahoo_ads
+	url = git@github.com:principle-c/embulk-input-yahoo_ads.git
+[submodule "embulk-input-soracom_harvest"]
+	path = embulk-input-soracom_harvest
+	url = git@github.com:sakama/embulk-input-soracom_harvest.git
+[submodule "embulk-input-intersystems_cache"]
+	path = embulk-input-intersystems_cache
+	url = git@github.com:kakoni/embulk-input-intersystems_cache.git
+[submodule "embulk-input-spotx"]
+	path = embulk-input-spotx
+	url = git@github.com:liuming/embulk-input-spotx.git
+[submodule "embulk-input-search_analytics"]
+	path = embulk-input-search_analytics
+	url = git@github.com:sem-technology/embulk-input-search_analytics.git
+[submodule "embulk-input-sitemap"]
+	path = embulk-input-sitemap
+	url = git@github.com:sem-technology/embulk-input-sitemap.git
+[submodule "embulk-input-clickhouse"]
+	path = embulk-input-clickhouse
+	url = git@github.com:tac0x2a/embulk-input-clickhouse.git
+[submodule "embulk-input-gmail"]
+	path = embulk-input-gmail
+	url = git@github.com:mikoto2000/embulk-input-gmail.git
+[submodule "embulk-input-salesforce_bulk"]
+	path = embulk-input-salesforce_bulk
+	url = git@github.com:mikoto2000/embulk-input-salesforce_bulk.git
+[submodule "embulk-output-bigquery"]
+	path = embulk-output-bigquery
+	url = git@github.com:embulk/embulk-output-bigquery.git
+[submodule "embulk-output-jdbc"]
+	path = embulk-output-jdbc
+	url = git@github.com:embulk/embulk-output-jdbc.git
+[submodule "embulk-output-td"]
+	path = embulk-output-td
+	url = git@github.com:treasure-data/embulk-output-td.git
+[submodule "embulk-output-s3"]
+	path = embulk-output-s3
+	url = git@github.com:llibra/embulk-output-s3.git
+[submodule "embulk-output-vertica"]
+	path = embulk-output-vertica
+	url = git@github.com:sonots/embulk-output-vertica.git
+[submodule "embulk-output-command"]
+	path = embulk-output-command
+	url = git@github.com:embulk/embulk-output-command.git
+[submodule "embulk-output-elasticsearch"]
+	path = embulk-output-elasticsearch
+	url = git@github.com:embulk/embulk-output-elasticsearch.git
+[submodule "embulk-output-s3_per_record"]
+	path = embulk-output-s3_per_record
+	url = git@github.com:tomykaira/embulk-output-s3_per_record.git
+[submodule "embulk-output-sftp"]
+	path = embulk-output-sftp
+	url = git@github.com:embulk/embulk-output-sftp.git
+[submodule "embulk-output-mailchimp"]
+	path = embulk-output-mailchimp
+	url = git@github.com:treasure-data/embulk-output-mailchimp.git
+[submodule "embulk-output-postgres-udf"]
+	path = embulk-output-postgres-udf
+	url = git@github.com:kakusuke/embulk-output-postgres-udf.git
+[submodule "embulk-output-bigobject"]
+	path = embulk-output-bigobject
+	url = git@github.com:bigobject-inc/embulk-output-bigobject.git
+[submodule "embulk-output-hdfs"]
+	path = embulk-output-hdfs
+	url = git@github.com:civitaspo/embulk-output-hdfs.git
+[submodule "embulk-output-ftp"]
+	path = embulk-output-ftp
+	url = git@github.com:embulk/embulk-output-ftp.git
+[submodule "embulk-output-gcs"]
+	path = embulk-output-gcs
+	url = git@github.com:embulk/embulk-output-gcs.git
+[submodule "embulk-output-google_spreadsheets"]
+	path = embulk-output-google_spreadsheets
+	url = git@github.com:kataring/embulk-output-google_spreadsheets.git
+[submodule "embulk-output-aerospike"]
+	path = embulk-output-aerospike
+	url = git@github.com:tkrs/embulk-output-aerospike.git
+[submodule "embulk-output-parquet"]
+	path = embulk-output-parquet
+	url = git@github.com:choplin/embulk-output-parquet.git
+[submodule "embulk-output-azure_blob_storage"]
+	path = embulk-output-azure_blob_storage
+	url = git@github.com:embulk/embulk-output-azure_blob_storage.git
+[submodule "embulk-output-dynamodb"]
+	path = embulk-output-dynamodb
+	url = git@github.com:sakama/embulk-output-dynamodb.git
+[submodule "embulk-output-salesforce"]
+	path = embulk-output-salesforce
+	url = git@github.com:tzmfreedom/embulk-output-salesforce.git
+[submodule "embulk-output-elasticsearch_ruby"]
+	path = embulk-output-elasticsearch_ruby
+	url = git@github.com:toyama0919/embulk-output-elasticsearch_ruby.git
+[submodule "embulk-output-orc"]
+	path = embulk-output-orc
+	url = git@github.com:yuokada/embulk-output-orc.git
+[submodule "embulk-output-influxdb"]
+	path = embulk-output-influxdb
+	url = git@github.com:joker1007/embulk-output-influxdb.git
+[submodule "embulk-output-redis"]
+	path = embulk-output-redis
+	url = git@github.com:komamitsu/embulk-output-redis.git
+[submodule "embulk-output-elasticsearch_using_url"]
+	path = embulk-output-elasticsearch_using_url
+	url = git@github.com:ymurata/embulk-output-elasticsearch_using_url.git
+[submodule "embulk-output-swift"]
+	path = embulk-output-swift
+	url = git@github.com:yuuzi41/embulk-output-swift.git
+[submodule "embulk-output-influxdb08"]
+	path = embulk-output-influxdb08
+	url = git@github.com:atsaki/embulk-output-influxdb08.git
+[submodule "embulk-output-teradata"]
+	path = embulk-output-teradata
+	url = git@github.com:ebyhr/embulk-output-teradata.git
+[submodule "embulk-output-analytics_cloud"]
+	path = embulk-output-analytics_cloud
+	url = git@github.com:tzmfreedom/embulk-output-analytics_cloud.git
+[submodule "embulk-output-embulk_output_domo"]
+	path = embulk-output-embulk_output_domo
+	url = git@github.com:alexopoulos7/embulk-output-embulk_output_domo.git
+[submodule "embulk-output-sqlite3"]
+	path = embulk-output-sqlite3
+	url = git@github.com:takady/embulk-output-sqlite3.git
+[submodule "embulk-output-cassandra"]
+	path = embulk-output-cassandra
+	url = git@github.com:joker1007/embulk-output-cassandra.git
+[submodule "embulk-output-aster"]
+	path = embulk-output-aster
+	url = git@github.com:ebyhr/embulk-output-aster.git
+[submodule "embulk-output-groonga"]
+	path = embulk-output-groonga
+	url = git@github.com:hiroyuki-sato/embulk-output-groonga.git
+[submodule "embulk-output-postgres-json"]
+	path = embulk-output-postgres-json
+	url = git@github.com:frsyuki/embulk-output-postgres-json.git
+[submodule "embulk-output-zendesk_users"]
+	path = embulk-output-zendesk_users
+	url = git@github.com:toru-takahashi/embulk-output-zendesk_users.git
+[submodule "embulk-output-trafodion"]
+	path = embulk-output-trafodion
+	url = git@github.com:AlexPeng19/embulk-output-trafodion.git
+[submodule "embulk-output-rediskeys"]
+	path = embulk-output-rediskeys
+	url = git@github.com:dokuma/embulk-output-rediskeys.git
+[submodule "embulk-output-documentdb"]
+	path = embulk-output-documentdb
+	url = git@github.com:yokawasa/embulk-output-documentdb.git
+[submodule "embulk-output-azuresearch"]
+	path = embulk-output-azuresearch
+	url = git@github.com:yokawasa/embulk-output-azuresearch.git
+[submodule "embulk-output-utf8parquet"]
+	path = embulk-output-utf8parquet
+	url = git@github.com:alexopoulos7/embulk-output-utf8parquet.git
+[submodule "embulk-output-slack_file_upload"]
+	path = embulk-output-slack_file_upload
+	url = git@github.com:takumakanari/embulk-output-slack_file_upload.git
+[submodule "embulk-output-mongodb_nest"]
+	path = embulk-output-mongodb_nest
+	url = git@github.com:focuschange/embulk-output-mongodb_nest.git
+[submodule "embulk-output-larges3"]
+	path = embulk-output-larges3
+	url = git@github.com:alexopoulos7/embulk-output-larges3.git
+[submodule "embulk-output-fluentd"]
+	path = embulk-output-fluentd
+	url = git@github.com:smdmts/embulk-output-fluentd.git
+[submodule "embulk-output-google_analytics"]
+	path = embulk-output-google_analytics
+	url = git@github.com:sem-technology/embulk-output-google_analytics.git
+[submodule "embulk-output-google_sheets_ruby"]
+	path = embulk-output-google_sheets_ruby
+	url = git@github.com:ariarijp/embulk-output-google_sheets_ruby.git
+[submodule "embulk-output-pixela"]
+	path = embulk-output-pixela
+	url = git@github.com:toru-takahashi/embulk-output-pixela.git
+[submodule "embulk-filter-column"]
+	path = embulk-filter-column
+	url = git@github.com:sonots/embulk-filter-column.git
+[submodule "embulk-filter-add_time"]
+	path = embulk-filter-add_time
+	url = git@github.com:treasure-data/embulk-filter-add_time.git
+[submodule "embulk-filter-ruby_proc"]
+	path = embulk-filter-ruby_proc
+	url = git@github.com:joker1007/embulk-filter-ruby_proc.git
+[submodule "embulk-filter-expand_json"]
+	path = embulk-filter-expand_json
+	url = git@github.com:civitaspo/embulk-filter-expand_json.git
+[submodule "embulk-filter-row"]
+	path = embulk-filter-row
+	url = git@github.com:sonots/embulk-filter-row.git
+[submodule "embulk-filter-hash"]
+	path = embulk-filter-hash
+	url = git@github.com:kamatama41/embulk-filter-hash.git
+[submodule "embulk-filter-timestamp_format"]
+	path = embulk-filter-timestamp_format
+	url = git@github.com:sonots/embulk-filter-timestamp_format.git
+[submodule "embulk-filter-eval"]
+	path = embulk-filter-eval
+	url = git@github.com:mgi166/embulk-filter-eval.git
+[submodule "embulk-filter-to_json"]
+	path = embulk-filter-to_json
+	url = git@github.com:civitaspo/embulk-filter-to_json.git
+[submodule "embulk-filter-flatten_json"]
+	path = embulk-filter-flatten_json
+	url = git@github.com:civitaspo/embulk-filter-flatten_json.git
+[submodule "embulk-filter-insert"]
+	path = embulk-filter-insert
+	url = git@github.com:muziyoshiz/embulk-filter-insert.git
+[submodule "embulk-filter-typecast"]
+	path = embulk-filter-typecast
+	url = git@github.com:sonots/embulk-filter-typecast.git
+[submodule "embulk-filter-rename_with_gsub"]
+	path = embulk-filter-rename_with_gsub
+	url = git@github.com:sesame/embulk-filter-rename_with_gsub.git
+[submodule "embulk-filter-mask"]
+	path = embulk-filter-mask
+	url = git@github.com:beniyama/embulk-filter-mask.git
+[submodule "embulk-filter-key_in_redis"]
+	path = embulk-filter-key_in_redis
+	url = git@github.com:smdmts/embulk-filter-key_in_redis.git
+[submodule "embulk-filter-speedometer"]
+	path = embulk-filter-speedometer
+	url = git@github.com:hata/embulk-filter-speedometer.git
+[submodule "embulk-filter-json_key_joiner"]
+	path = embulk-filter-json_key_joiner
+	url = git@github.com:smdmts/embulk-filter-json_key_joiner.git
+[submodule "embulk-filter-kuromoji"]
+	path = embulk-filter-kuromoji
+	url = git@github.com:toyama0919/embulk-filter-kuromoji.git
+[submodule "embulk-filter-script_ruby"]
+	path = embulk-filter-script_ruby
+	url = git@github.com:shinjiikeda/embulk-filter-script_ruby.git
+[submodule "embulk-filter-woothee"]
+	path = embulk-filter-woothee
+	url = git@github.com:toyama0919/embulk-filter-woothee.git
+[submodule "embulk-filter-distinct"]
+	path = embulk-filter-distinct
+	url = git@github.com:civitaspo/embulk-filter-distinct.git
+[submodule "embulk-filter-query_string_ruby"]
+	path = embulk-filter-query_string_ruby
+	url = git@github.com:ymurata/embulk-filter-query_string_ruby.git
+[submodule "embulk-filter-query_string"]
+	path = embulk-filter-query_string
+	url = git@github.com:mwed/embulk-filter-query_string.git
+[submodule "embulk-filter-icu4j"]
+	path = embulk-filter-icu4j
+	url = git@github.com:toyama0919/embulk-filter-icu4j.git
+[submodule "embulk-filter-expand_json_array"]
+	path = embulk-filter-expand_json_array
+	url = git@github.com:ainoya/embulk-filter-expand_json_array.git
+[submodule "embulk-filter-base58"]
+	path = embulk-filter-base58
+	url = git@github.com:kfitzgerald/embulk-filter-base58.git
+[submodule "embulk-filter-to_csv"]
+	path = embulk-filter-to_csv
+	url = git@github.com:civitaspo/embulk-filter-to_csv.git
+[submodule "embulk-filter-mysql"]
+	path = embulk-filter-mysql
+	url = git@github.com:toyama0919/embulk-filter-mysql.git
+[submodule "embulk-filter-crawler"]
+	path = embulk-filter-crawler
+	url = git@github.com:toyama0919/embulk-filter-crawler.git
+[submodule "embulk-filter-split_column"]
+	path = embulk-filter-split_column
+	url = git@github.com:yskn67/embulk-filter-split_column.git
+[submodule "embulk-filter-calcite"]
+	path = embulk-filter-calcite
+	url = git@github.com:muga/embulk-filter-calcite.git
+[submodule "embulk-filter-join_file"]
+	path = embulk-filter-join_file
+	url = git@github.com:civitaspo/embulk-filter-join_file.git
+[submodule "embulk-filter-timestamp_hs"]
+	path = embulk-filter-timestamp_hs
+	url = git@github.com:arenahito/embulk-filter-timestamp_hs.git
+[submodule "embulk-filter-json_key"]
+	path = embulk-filter-json_key
+	url = git@github.com:civitaspo/embulk-filter-json_key.git
+[submodule "embulk-filter-google_translate_api"]
+	path = embulk-filter-google_translate_api
+	url = git@github.com:toyama0919/embulk-filter-google_translate_api.git
+[submodule "embulk-filter-stdout"]
+	path = embulk-filter-stdout
+	url = git@github.com:sonots/embulk-filter-stdout.git
+[submodule "embulk-filter-google_vision_api"]
+	path = embulk-filter-google_vision_api
+	url = git@github.com:toyama0919/embulk-filter-google_vision_api.git
+[submodule "embulk-filter-encrypt"]
+	path = embulk-filter-encrypt
+	url = git@github.com:embulk/embulk-filter-encrypt.git
+[submodule "embulk-filter-azure_computer_vision_api"]
+	path = embulk-filter-azure_computer_vision_api
+	url = git@github.com:toyama0919/embulk-filter-azure_computer_vision_api.git
+[submodule "embulk-filter-rearrange"]
+	path = embulk-filter-rearrange
+	url = git@github.com:okanotor/embulk-filter-rearrange.git
+[submodule "embulk-filter-base64"]
+	path = embulk-filter-base64
+	url = git@github.com:ysk24ok/embulk-filter-base64.git
+[submodule "embulk-filter-calc"]
+	path = embulk-filter-calc
+	url = git@github.com:hiroyuki-sato/embulk-filter-calc.git
+[submodule "embulk-filter-amazon_rekognition"]
+	path = embulk-filter-amazon_rekognition
+	url = git@github.com:toyama0919/embulk-filter-amazon_rekognition.git
+[submodule "embulk-filter-unique"]
+	path = embulk-filter-unique
+	url = git@github.com:naota/embulk-filter-unique.git
+[submodule "embulk-filter-null_string"]
+	path = embulk-filter-null_string
+	url = git@github.com:hiroyuki-sato/embulk-filter-null_string.git
+[submodule "embulk-filter-script"]
+	path = embulk-filter-script
+	url = git@github.com:SNakano/embulk-filter-script.git
+[submodule "embulk-filter-copy"]
+	path = embulk-filter-copy
+	url = git@github.com:civitaspo/embulk-filter-copy.git
+[submodule "embulk-filter-url_encode"]
+	path = embulk-filter-url_encode
+	url = git@github.com:mwed/embulk-filter-url_encode.git
+[submodule "embulk-filter-azure_text_analytics"]
+	path = embulk-filter-azure_text_analytics
+	url = git@github.com:toyama0919/embulk-filter-azure_text_analytics.git
+[submodule "embulk-filter-pherialize"]
+	path = embulk-filter-pherialize
+	url = git@github.com:cynipe/embulk-filter-pherialize.git
+[submodule "embulk-filter-forcepoint_converter"]
+	path = embulk-filter-forcepoint_converter
+	url = git@github.com:sesame/embulk-filter-forcepoint_converter.git
+[submodule "embulk-filter-google_natural_language_api"]
+	path = embulk-filter-google_natural_language_api
+	url = git@github.com:toyama0919/embulk-filter-google_natural_language_api.git
+[submodule "embulk-filter-jsoncolumn"]
+	path = embulk-filter-jsoncolumn
+	url = git@github.com:dokuma/embulk-filter-jsoncolumn.git
+[submodule "embulk-filter-reverse_geocoding"]
+	path = embulk-filter-reverse_geocoding
+	url = git@github.com:oqrusk/embulk-filter-reverse_geocoding.git
+[submodule "embulk-filter-strip_html_tags"]
+	path = embulk-filter-strip_html_tags
+	url = git@github.com:cesare/embulk-filter-strip_html_tags.git
+[submodule "embulk-filter-protobuf"]
+	path = embulk-filter-protobuf
+	url = git@github.com:ysk24ok/embulk-filter-protobuf.git
+[submodule "embulk-filter-gsub"]
+	path = embulk-filter-gsub
+	url = git@github.com:cesare/embulk-filter-gsub.git
+[submodule "embulk-filter-azure_translator_api"]
+	path = embulk-filter-azure_translator_api
+	url = git@github.com:toyama0919/embulk-filter-azure_translator_api.git
+[submodule "embulk-filter-affix"]
+	path = embulk-filter-affix
+	url = git@github.com:imura81gt/embulk-filter-affix.git
+[submodule "embulk-parser-jsonl"]
+	path = embulk-parser-jsonl
+	url = git@github.com:shun0102/embulk-parser-jsonl.git
+[submodule "embulk-parser-none"]
+	path = embulk-parser-none
+	url = git@github.com:sonots/embulk-parser-none.git
+[submodule "embulk-parser-json"]
+	path = embulk-parser-json
+	url = git@github.com:takumakanari/embulk-parser-json.git
+[submodule "embulk-parser-firebase_avro"]
+	path = embulk-parser-firebase_avro
+	url = git@github.com:smdmts/embulk-parser-firebase_avro.git
+[submodule "embulk-parser-poi_excel"]
+	path = embulk-parser-poi_excel
+	url = git@github.com:hishidama/embulk-parser-poi_excel.git
+[submodule "embulk-parser-avro"]
+	path = embulk-parser-avro
+	url = git@github.com:joker1007/embulk-parser-avro.git
+[submodule "embulk-parser-query_string"]
+	path = embulk-parser-query_string
+	url = git@github.com:treasure-data/embulk-parser-query_string.git
+[submodule "embulk-parser-xml"]
+	path = embulk-parser-xml
+	url = git@github.com:takumakanari/embulk-parser-xml.git
+[submodule "embulk-parser-msgpack"]
+	path = embulk-parser-msgpack
+	url = git@github.com:frsyuki/embulk-parser-msgpack.git
+[submodule "embulk-parser-regex"]
+	path = embulk-parser-regex
+	url = git@github.com:mokemokechicken/embulk-parser-regex.git
+[submodule "embulk-parser-jsonpath"]
+	path = embulk-parser-jsonpath
+	url = git@github.com:hiroyuki-sato/embulk-parser-jsonpath.git
+[submodule "embulk-parser-ltsv"]
+	path = embulk-parser-ltsv
+	url = git@github.com:toyama0919/embulk-parser-ltsv.git
+[submodule "embulk-parser-apache-custom-log"]
+	path = embulk-parser-apache-custom-log
+	url = git@github.com:jami-i/embulk-parser-apache-custom-log.git
+[submodule "embulk-parser-grok"]
+	path = embulk-parser-grok
+	url = git@github.com:arielnetworks/embulk-parser-grok.git
+[submodule "embulk-parser-xpath2"]
+	path = embulk-parser-xpath2
+	url = git@github.com:maji-KY/embulk-parser-xpath2.git
+[submodule "embulk-parser-csv_guessable"]
+	path = embulk-parser-csv_guessable
+	url = git@github.com:koooge/embulk-parser-csv_guessable.git
+[submodule "embulk-parser-apache-log"]
+	path = embulk-parser-apache-log
+	url = git@github.com:hiroyuki-sato/embulk-parser-apache-log.git
+[submodule "embulk-parser-twitter_ads_stats"]
+	path = embulk-parser-twitter_ads_stats
+	url = git@github.com:septeni-original/embulk-parser-twitter_ads_stats.git
+[submodule "embulk-parser-apache_error_log"]
+	path = embulk-parser-apache_error_log
+	url = git@github.com:tmitz/embulk-parser-apache_error_log.git
+[submodule "embulk-parser-fluent-s3-log"]
+	path = embulk-parser-fluent-s3-log
+	url = git@github.com:y-matsuwitter/embulk-parser-fluent-s3-log.git
+[submodule "embulk-parser-roo-excel"]
+	path = embulk-parser-roo-excel
+	url = git@github.com:hiroyuki-sato/embulk-parser-roo-excel.git
+[submodule "embulk-parser-sisimai"]
+	path = embulk-parser-sisimai
+	url = git@github.com:hiroyuki-sato/embulk-parser-sisimai.git
+[submodule "embulk-parser-jdbc-schema-csv"]
+	path = embulk-parser-jdbc-schema-csv
+	url = git@github.com:hito4t/embulk-parser-jdbc-schema-csv.git
+[submodule "embulk-parser-pcapng"]
+	path = embulk-parser-pcapng
+	url = git@github.com:enukane/embulk-parser-pcapng.git
+[submodule "embulk-parser-forcepoint"]
+	path = embulk-parser-forcepoint
+	url = git@github.com:sesame/embulk-parser-forcepoint.git
+[submodule "embulk-parser-unpack"]
+	path = embulk-parser-unpack
+	url = git@github.com:kakoni/embulk-parser-unpack.git
+[submodule "embulk-parser-xpath"]
+	path = embulk-parser-xpath
+	url = git@github.com:matobat/embulk-parser-xpath.git
+[submodule "embulk-parser-fluentd_out_file"]
+	path = embulk-parser-fluentd_out_file
+	url = git@github.com:muga/embulk-parser-fluentd_out_file.git
+[submodule "embulk-parser-mysqldump_tab"]
+	path = embulk-parser-mysqldump_tab
+	url = git@github.com:inouet/embulk-parser-mysqldump_tab.git
+[submodule "embulk-parser-csv_with_default_value"]
+	path = embulk-parser-csv_with_default_value
+	url = git@github.com:kazup0n/embulk-parser-csv_with_default_value.git
+[submodule "embulk-parser-fixed"]
+	path = embulk-parser-fixed
+	url = git@github.com:kakoni/embulk-parser-fixed.git
+[submodule "embulk-parser-csv_with_schema_file"]
+	path = embulk-parser-csv_with_schema_file
+	url = git@github.com:jo8937/embulk-parser-csv_with_schema_file.git
+[submodule "embulk-parser-none-bin"]
+	path = embulk-parser-none-bin
+	url = https://lab.nexedi.com/klaus/embulk-parser-none-bin.git
+[submodule "embulk-parser-jsonline"]
+	path = embulk-parser-jsonline
+	url = git@github.com:3-shake/embulk-parser-jsonline.git
+[submodule "embulk-parser-joni_regexp"]
+	path = embulk-parser-joni_regexp
+	url = git@github.com:hiroyuki-sato/embulk-parser-joni_regexp.git
+[submodule "embulk-parser-mahout"]
+	path = embulk-parser-mahout
+	url = git@github.com:kihengk/embulk-parser-mahout.git
+[submodule "embulk-decoder-remove_nonstandard_utf8_bytes"]
+	path = embulk-decoder-remove_nonstandard_utf8_bytes
+	url = git@github.com:smdmts/embulk-decoder-remove_nonstandard_utf8_bytes.git
+[submodule "embulk-decoder-commons-compress"]
+	path = embulk-decoder-commons-compress
+	url = git@github.com:hata/embulk-decoder-commons-compress.git
+[submodule "embulk-decoder-lzo"]
+	path = embulk-decoder-lzo
+	url = git@github.com:ntkes3/embulk-decoder-lzo.git
+[submodule "embulk-decoder-lz4"]
+	path = embulk-decoder-lz4
+	url = git@github.com:yuuzi41/embulk-decoder-lz4.git
+[submodule "embulk-decoder-command"]
+	path = embulk-decoder-command
+	url = git@github.com:ksss/embulk-decoder-command.git
+[submodule "embulk-formatter-jsonl"]
+	path = embulk-formatter-jsonl
+	url = git@github.com:takei-yuya/embulk-formatter-jsonl.git
+[submodule "embulk-formatter-single_value"]
+	path = embulk-formatter-single_value
+	url = git@github.com:sonots/embulk-formatter-single_value.git
+[submodule "embulk-formatter-fast_jsonl"]
+	path = embulk-formatter-fast_jsonl
+	url = git@github.com:smdmts/embulk-formatter-fast_jsonl.git
+[submodule "embulk-formatter-avro"]
+	path = embulk-formatter-avro
+	url = git@github.com:joker1007/embulk-formatter-avro.git
+[submodule "embulk-formatter-poi_excel"]
+	path = embulk-formatter-poi_excel
+	url = git@github.com:hishidama/embulk-formatter-poi_excel.git
+[submodule "embulk-formatter-markdown_table"]
+	path = embulk-formatter-markdown_table
+	url = git@github.com:yuemori/embulk-formatter-markdown_table.git
+[submodule "embulk-formatter-html_table"]
+	path = embulk-formatter-html_table
+	url = git@github.com:yuemori/embulk-formatter-html_table.git
+[submodule "embulk-formatter-geojson"]
+	path = embulk-formatter-geojson
+	url = git@github.com:Lewuathe/embulk-formatter-geojson.git
+[submodule "embulk-formatter-sprintf"]
+	path = embulk-formatter-sprintf
+	url = git@github.com:toyama0919/embulk-formatter-sprintf.git
+[submodule "embulk-encoder-commons-compress"]
+	path = embulk-encoder-commons-compress
+	url = git@github.com:hata/embulk-encoder-commons-compress.git
+[submodule "embulk-encoder-encrypted_zip"]
+	path = embulk-encoder-encrypted_zip
+	url = git@github.com:mokemokechicken/embulk-encoder-encrypted_zip.git
+[submodule "embulk-encoder-xz"]
+	path = embulk-encoder-xz
+	url = git@github.com:frsyuki/embulk-encoder-xz.git
+[submodule "embulk-encoder-pgp_encryption"]
+	path = embulk-encoder-pgp_encryption
+	url = git@github.com:mokemokechicken/embulk-encoder-pgp_encryption.git
+[submodule "embulk-encoder-lz4"]
+	path = embulk-encoder-lz4
+	url = git@github.com:yuuzi41/embulk-encoder-lz4.git
+[submodule "embulk-encoder-command"]
+	path = embulk-encoder-command
+	url = git@github.com:ksss/embulk-encoder-command.git
