@@ -661,3 +661,75 @@
 [submodule "embulk-encoder-command"]
 	path = embulk-encoder-command
 	url = git@github.com:ksss/embulk-encoder-command.git
+[submodule "embulk-decoder-exec"]
+	path = embulk-decoder-exec
+	url = git@github.com:ksss/embulk-decoder-exec.git
+	branch = master
+[submodule "embulk-filter-concat"]
+	path = embulk-filter-concat
+	url = git@github.com:toru-takahashi/embulk-filter-concat.git
+	branch = master
+[submodule "embulk-filter-json_csv2arrayofobjects"]
+	path = embulk-filter-json_csv2arrayofobjects
+	url = git@github.com:ysk24ok/embulk-filter-json_csv2arrayofobjects.git
+	branch = master
+[submodule "embulk-filter-split"]
+	path = embulk-filter-split
+	url = git@github.com:toyama0919/embulk-filter-split.git
+	branch = master
+[submodule "embulk-filter-unpivot"]
+	path = embulk-filter-unpivot
+	url = git@github.com:ietty/embulk-filter-unpivot.git
+	branch = master
+[submodule "embulk-input-buildkite"]
+	path = embulk-input-buildkite
+	url = git@github.com:mtsmfm/embulk-input-buildkite.git
+	branch = master
+[submodule "embulk-input-riak_cs"]
+	path = embulk-input-riak_cs
+	url = git@github.com:embulk/embulk-input-s3.git
+	branch = master
+[submodule "embulk-input-script"]
+	path = embulk-input-script
+	url = git@github.com:frsyuki/embulk-input-script.git
+	branch = master
+[submodule "embulk-input-travis"]
+	path = embulk-input-travis
+	url = git@github.com:mtsmfm/embulk-input-travis.git
+	branch = master
+[submodule "embulk-output-amazon_cloudsearch"]
+	path = embulk-output-amazon_cloudsearch
+	url = git@github.com:kenchan/embulk-output-amazon_cloudsearch.git
+	branch = master
+[submodule "embulk-output-elasticsearch5"]
+	path = embulk-output-elasticsearch5
+	url = git@github.com:tristanls/embulk-output-elasticsearch.git
+	branch = master
+[submodule "embulk-output-elasticsearch_1.x"]
+	path = embulk-output-elasticsearch_1.x
+	url = git@github.com:shinjiikeda/embulk-output-elasticsearch.git
+	branch = master
+[submodule "embulk-output-key_to_redis"]
+	path = embulk-output-key_to_redis
+	url = git@github.com:smdmts/embulk-output-key_to_redis.git
+	branch = master
+[submodule "embulk-output-multi"]
+	path = embulk-output-multi
+	url = git@github.com:kamatama41/embulk-output-multi.git
+	branch = master
+[submodule "embulk-output-s3_parquet"]
+	path = embulk-output-s3_parquet
+	url = git@github.com:civitaspo/embulk-output-s3_parquet.git
+	branch = master
+[submodule "embulk-output-solr"]
+	path = embulk-output-solr
+	url = git@github.com:yahoojapan/embulk-output-solr.git
+	branch = master
+[submodule "embulk-parser-xml2"]
+	path = embulk-parser-xml2
+	url = git@github.com:yahoojapan/embulk-parser-xml2.git
+	branch = master
+[submodule "embulk-formatter-mysql_xml"]
+	path = embulk-formatter-mysql_xml
+	url = git@github.com:shio-phys/embulk-formatter-mysql_xml.git
+	branch = master
