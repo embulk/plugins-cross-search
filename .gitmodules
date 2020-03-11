@@ -970,3 +970,7 @@
 	path = embulk-filter-murmur2_partitioner
 	url = git@github.com:joker1007/embulk-filter-murmur2_partitioner.git
 	branch = master
+[submodule "embulk-encoder-snappy"]
+	path = embulk-encoder-snappy
+	url = git@github.com:joker1007/embulk-encoder-snappy.git
+	branch = master
