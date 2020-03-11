@@ -958,3 +958,15 @@
 	path = embulk-filter-decrypt
 	url = git@github.com:treasure-data/embulk-filter-decrypt.git
 	branch = master
+[submodule "embulk-output-kafka"]
+	path = embulk-output-kafka
+	url = git@github.com:joker1007/embulk-output-kafka.git
+	branch = master
+[submodule "embulk-input-cassandra"]
+	path = embulk-input-cassandra
+	url = git@github.com:joker1007/embulk-input-cassandra.git
+	branch = master
+[submodule "embulk-filter-murmur2_partitioner"]
+	path = embulk-filter-murmur2_partitioner
+	url = git@github.com:joker1007/embulk-filter-murmur2_partitioner.git
+	branch = master
