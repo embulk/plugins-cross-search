@@ -954,3 +954,7 @@
 	path = embulk-formatter-mysql_xml
 	url = git@github.com:shio-phys/embulk-formatter-mysql_xml.git
 	branch = master
+[submodule "embulk-filter-decrypt"]
+	path = embulk-filter-decrypt
+	url = git@github.com:treasure-data/embulk-filter-decrypt.git
+	branch = master
