@@ -974,3 +974,7 @@
 	path = embulk-encoder-snappy
 	url = git@github.com:joker1007/embulk-encoder-snappy.git
 	branch = master
+[submodule "embulk-output-clickhouse"]
+	path = embulk-output-clickhouse
+	url = git@github.com:kakoni/embulk-output-clickhouse.git
+	branch = master
