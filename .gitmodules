@@ -978,3 +978,47 @@
 	path = embulk-output-clickhouse
 	url = git@github.com:kakoni/embulk-output-clickhouse.git
 	branch = master
+[submodule "embulk-base-restclient"]
+	path = embulk-base-restclient
+	url = git@github.com:embulk/embulk-base-restclient.git
+	branch = master
+[submodule "embulk-util-retryhelper"]
+	path = embulk-util-retryhelper
+	url = git@github.com:embulk/embulk-util-retryhelper.git
+	branch = master
+[submodule "embulk-util-config"]
+	path = embulk-util-config
+	url = git@github.com:embulk/embulk-util-config.git
+	branch = master
+[submodule "embulk-util-timestamp"]
+	path = embulk-util-timestamp
+	url = git@github.com:embulk/embulk-util-timestamp.git
+	branch = master
+[submodule "embulk-util-file"]
+	path = embulk-util-file
+	url = git@github.com:embulk/embulk-util-file.git
+	branch = master
+[submodule "embulk-util-throttle-helper"]
+	path = embulk-util-throttle-helper
+	url = git@github.com:embulk/embulk-util-throttle-helper.git
+	branch = master
+[submodule "embulk-util-text"]
+	path = embulk-util-text
+	url = git@github.com:embulk/embulk-util-text.git
+	branch = master
+[submodule "embulk-util-aws-credentials"]
+	path = embulk-util-aws-credentials
+	url = git@github.com:embulk/embulk-util-aws-credentials.git
+	branch = master
+[submodule "embulk-util-rubytime"]
+	path = embulk-util-rubytime
+	url = git@github.com:embulk/embulk-util-rubytime.git
+	branch = master
+[submodule "embulk-util-csv"]
+	path = embulk-util-csv
+	url = git@github.com:embulk/embulk-util-csv.git
+	branch = master
+[submodule "embulk-util-ssl"]
+	path = embulk-util-ssl
+	url = git@github.com:embulk/embulk-util-ssl.git
+	branch = master
