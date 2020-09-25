@@ -798,10 +798,6 @@
 	path = embulk-parser-joni_regexp
 	url = git@github.com:hiroyuki-sato/embulk-parser-joni_regexp.git
 	branch = master
-[submodule "embulk-parser-mahout"]
-	path = embulk-parser-mahout
-	url = git@github.com:kihengk/embulk-parser-mahout.git
-	branch = master
 [submodule "embulk-decoder-remove_nonstandard_utf8_bytes"]
 	path = embulk-decoder-remove_nonstandard_utf8_bytes
 	url = git@github.com:smdmts/embulk-decoder-remove_nonstandard_utf8_bytes.git
@@ -970,10 +966,6 @@
 	path = embulk-filter-murmur2_partitioner
 	url = git@github.com:joker1007/embulk-filter-murmur2_partitioner.git
 	branch = master
-[submodule "embulk-encoder-snappy"]
-	path = embulk-encoder-snappy
-	url = git@github.com:joker1007/embulk-encoder-snappy.git
-	branch = master
 [submodule "embulk-output-clickhouse"]
 	path = embulk-output-clickhouse
 	url = git@github.com:kakoni/embulk-output-clickhouse.git
@@ -982,17 +974,17 @@
 	path = embulk-base-restclient
 	url = git@github.com:embulk/embulk-base-restclient.git
 	branch = master
-[submodule "embulk-util-retryhelper"]
-	path = embulk-util-retryhelper
-	url = git@github.com:embulk/embulk-util-retryhelper.git
+[submodule "embulk-util-timestamp"]
+	path = embulk-util-timestamp
+	url = git@github.com:embulk/embulk-util-timestamp.git
 	branch = master
 [submodule "embulk-util-config"]
 	path = embulk-util-config
 	url = git@github.com:embulk/embulk-util-config.git
 	branch = master
-[submodule "embulk-util-timestamp"]
-	path = embulk-util-timestamp
-	url = git@github.com:embulk/embulk-util-timestamp.git
+[submodule "embulk-util-snakeyaml"]
+	path = embulk-util-snakeyaml
+	url = git@github.com:embulk/embulk-util-snakeyaml.git
 	branch = master
 [submodule "embulk-util-file"]
 	path = embulk-util-file
@@ -1002,23 +994,35 @@
 	path = embulk-util-throttle-helper
 	url = git@github.com:embulk/embulk-util-throttle-helper.git
 	branch = master
-[submodule "embulk-util-text"]
-	path = embulk-util-text
-	url = git@github.com:embulk/embulk-util-text.git
+[submodule "embulk-util-retryhelper"]
+	path = embulk-util-retryhelper
+	url = git@github.com:embulk/embulk-util-retryhelper.git
 	branch = master
-[submodule "embulk-util-aws-credentials"]
-	path = embulk-util-aws-credentials
-	url = git@github.com:embulk/embulk-util-aws-credentials.git
-	branch = master
-[submodule "embulk-util-rubytime"]
-	path = embulk-util-rubytime
-	url = git@github.com:embulk/embulk-util-rubytime.git
+[submodule "embulk-util-ssl"]
+	path = embulk-util-ssl
+	url = git@github.com:embulk/embulk-util-ssl.git
 	branch = master
 [submodule "embulk-util-csv"]
 	path = embulk-util-csv
 	url = git@github.com:embulk/embulk-util-csv.git
 	branch = master
-[submodule "embulk-util-ssl"]
-	path = embulk-util-ssl
-	url = git@github.com:embulk/embulk-util-ssl.git
+[submodule "embulk-util-json"]
+	path = embulk-util-json
+	url = git@github.com:embulk/embulk-util-json.git
+	branch = master
+[submodule "embulk-util-rubytime"]
+	path = embulk-util-rubytime
+	url = git@github.com:embulk/embulk-util-rubytime.git
+	branch = master
+[submodule "embulk-util-aws-credentials"]
+	path = embulk-util-aws-credentials
+	url = git@github.com:embulk/embulk-util-aws-credentials.git
+	branch = master
+[submodule "embulk-util-text"]
+	path = embulk-util-text
+	url = git@github.com:embulk/embulk-util-text.git
+	branch = master
+[submodule "embulk-util-dynamic"]
+	path = embulk-util-dynamic
+	url = git@github.com:embulk/embulk-util-dynamic.git
 	branch = master
