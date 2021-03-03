@@ -622,10 +622,6 @@
 	path = embulk-filter-pherialize
 	url = git@github.com:cynipe/embulk-filter-pherialize.git
 	branch = master
-[submodule "embulk-filter-forcepoint_converter"]
-	path = embulk-filter-forcepoint_converter
-	url = git@github.com:sesame/embulk-filter-forcepoint_converter.git
-	branch = master
 [submodule "embulk-filter-google_natural_language_api"]
 	path = embulk-filter-google_natural_language_api
 	url = git@github.com:toyama0919/embulk-filter-google_natural_language_api.git
