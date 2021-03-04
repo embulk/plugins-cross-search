@@ -173,7 +173,7 @@
 [submodule "embulk-input-athena"]
 	path = embulk-input-athena
 	url = git@github.com:shinji19/embulk-input-athena.git
-	branch = master
+	branch = develop
 [submodule "embulk-input-parquet_hadoop"]
 	path = embulk-input-parquet_hadoop
 	url = git@github.com:CyberAgent/embulk-input-parquet_hadoop.git
@@ -461,7 +461,7 @@
 [submodule "embulk-filter-flatten_json"]
 	path = embulk-filter-flatten_json
 	url = git@github.com:civitaspo/embulk-filter-flatten_json.git
-	branch = master
+	branch = main
 [submodule "embulk-filter-insert"]
 	path = embulk-filter-insert
 	url = git@github.com:muziyoshiz/embulk-filter-insert.git
