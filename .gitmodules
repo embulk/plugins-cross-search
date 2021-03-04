@@ -470,10 +470,6 @@
 	path = embulk-filter-typecast
 	url = git@github.com:sonots/embulk-filter-typecast.git
 	branch = master
-[submodule "embulk-filter-rename_with_gsub"]
-	path = embulk-filter-rename_with_gsub
-	url = git@github.com:sesame/embulk-filter-rename_with_gsub.git
-	branch = master
 [submodule "embulk-filter-mask"]
 	path = embulk-filter-mask
 	url = git@github.com:beniyama/embulk-filter-mask.git
@@ -749,10 +745,6 @@
 [submodule "embulk-parser-pcapng"]
 	path = embulk-parser-pcapng
 	url = git@github.com:enukane/embulk-parser-pcapng.git
-	branch = master
-[submodule "embulk-parser-forcepoint"]
-	path = embulk-parser-forcepoint
-	url = git@github.com:sesame/embulk-parser-forcepoint.git
 	branch = master
 [submodule "embulk-parser-unpack"]
 	path = embulk-parser-unpack
