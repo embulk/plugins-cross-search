@@ -154,10 +154,6 @@
 	path = embulk-input-sql
 	url = git@github.com:kakusuke/embulk-input-sql.git
 	branch = master
-[submodule "embulk-input-apache-dummy-log"]
-	path = embulk-input-apache-dummy-log
-	url = git@github.com:hiroyuki-sato/embulk-input-apache-dummy-log.git
-	branch = master
 [submodule "embulk-input-redis"]
 	path = embulk-input-redis
 	url = git@github.com:komamitsu/embulk-input-redis.git
